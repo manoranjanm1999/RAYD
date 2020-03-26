@@ -1,0 +1,28 @@
+input[type=radio] {
+    border: 0px;
+    width: 1.5em;
+    height: 1.5em;
+}   
+
+button {
+   
+    font-size: 20px;
+    
+    width:15%; 
+}
+
+sup {
+    color: red;
+    font-size: large;
+}
+#inputField {
+    font-size: x-large;
+    font-family: monospace;
+    padding-top: 10px;
+}
+.title {
+    font-family: monospace;
+}
+.text-center {
+    padding-top: 6px;
+}
